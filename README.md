@@ -2,12 +2,16 @@
 
 This project implements and compares two **Random Forest classification models**: a standard Random Forest and a modified version designed to improve the classification of minority classes.
 
+<br>
+
 ## Objectives
 
 * Implement a standard Random Forest.
 * Develop a modified Random Forest for imbalanced data.
 * Compare the performance of both approaches.
 * Evaluate the models using classification metrics and the **Wilcoxon statistical test**.
+
+<br>
 
 ## Main Features
 
@@ -17,6 +21,8 @@ This project implements and compares two **Random Forest classification models**
 * 🔧 Class weighting and threshold optimization
 * 📊 Performance evaluation
 * 📈 Statistical comparison using the Wilcoxon test
+
+<br>
 
 ## Results
 
