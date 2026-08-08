@@ -39,7 +39,7 @@ The modified Random Forest significantly improved the performance on the minorit
 <br>
 
 ## Link to the course:
-This course is part of the **first semester** of the **second year** of the **Bachelor's Degree in Bioinformatics** at **FCUP, ICBAS and FFUP** in the academic year 2024/2025. You can find more information about this course at the following link:
+This course is part of the **second semester** of the **second year** of the **Bachelor's Degree in Bioinformatics** at **FCUP, ICBAS and FFUP** in the academic year 2024/2025. You can find more information about this course at the following link:
 
 ###
 
